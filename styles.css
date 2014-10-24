@@ -1,0 +1,42 @@
+body {
+    font-family:sans-serif;
+    min-width: 380px;
+    overflow-x: hidden;
+    background-color: black;
+    color: white;
+    margin: 10px;
+}
+
+img {
+    margin: 5px;
+    border: 2px solid black;
+    vertical-align: middle;
+    width: 75px;
+    height: 75px;
+}
+
+h1 {
+    display: inline;
+}
+
+input {
+    border: 0;
+    height: 40px;
+    width: 200px;
+    padding: 10px;
+    font-size: 2em;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+button {
+    background: red;
+    color: white;
+    font-size: 2em;
+    height: 60px;
+    width: 120px;
+    padding: 18px;
+    display: inline-block;
+    border: 0;
+    vertical-align: middle;
+}

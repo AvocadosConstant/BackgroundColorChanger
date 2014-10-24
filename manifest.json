@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "Background Color Changer",
+  "description": "This extension changes the background color per user query.",
+  "version": "1.0",
+
+   "permissions": [
+      "tabs",
+      "http://*/*",
+      "https://*/*"
+    ],
+  "browser_action": {
+    "default_title": "saoidjfaslfkjds",
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  }
+}
